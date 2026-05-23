@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Ihame Gilbert |
-| **Student number** | 2504417 |
+| **Student number** |  |
 
 Program that assembles DNA from overlapping segments using a **de Bruijn graph** and an **Euler path**.
 
