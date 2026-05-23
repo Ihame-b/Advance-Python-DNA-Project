@@ -1,6 +1,5 @@
 """
 author: Ihame Gilbert
-studentnumber: 
 """
 
 import json
